@@ -1,3 +1,3 @@
-module github.com/Shubham-Baheti/golab
+module golearning
 
 go 1.24.1
